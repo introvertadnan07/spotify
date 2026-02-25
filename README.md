@@ -60,6 +60,6 @@ Replace static assets with real album covers and song metadata.
 Add animations (hover states, playback bar movement) for polish.
 
 👤 Author
-
+Adnan Qaisar 
 Built by introvertadnan07. Feel free to fork, modify, and reuse for your learning. Contributions/improvements are welcome.
 backend code start
